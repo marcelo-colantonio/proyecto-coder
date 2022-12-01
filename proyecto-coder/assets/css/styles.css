@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,700;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.estoEsUnH1{
+    font-size: 2.813rem;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 100px;
+}
+
+.subtitulo{
+    font-size: 1.8rem;
+}
+
+.abajoDelParrafo{
+    font-size: 1.25rem;
+}
+
+.infoFooter{
+    font-size: 1.35rem;
+}
+
+.infoFooterPeq{
+    font-size: 1rem;
+}
+
+.pieDePagina{
+    font-size: 0.8rem;
+}
+
+
+.container{
+    display: inline;
+}
+
+.homeInicio{
+    width: 45px;
+    height: 45px; 
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+.videoInicio{
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%; 
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: -1;  
+}
+
+.articuloInicio{
+    color: #efefef;
+    margin: 100px;
+}
+
+.articuloInicio p{
+    font-size: 1rem;
+}
+
+
+.iconoRedes{
+    font-size: 2rem;
+}
+
+.container-fluid {
+    height: 100px;
+  }
+
+.cajaFooter{
+    height: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
